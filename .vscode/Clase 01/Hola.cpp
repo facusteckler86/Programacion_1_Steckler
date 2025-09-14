@@ -20,11 +20,18 @@ int main(){
 
     // Codigo de salida
     cout << cadena;
-
+    cout << "Escriba un numero" << endl; // endl es salto de linea
     //Codigo de entrada
     cin >> miVariable;
+    
+
+    // modelo de condicionales if/else
+    if (miVariable){
+        /* code */
+    } else{
+
     }
     
 
-
 }
+
